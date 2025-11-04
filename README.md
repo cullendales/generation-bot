@@ -1,4 +1,4 @@
-# Generation
+# Generation Bot
 
 ## About
 Finally! A Discord bot that can determine someone's generation. The bot tracks user messages and counts all instances of slang usage throughout all messages. No more guessing if someone is an unc, find out with just a simple command. Comes with a built in cooked counter!
