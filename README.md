@@ -6,7 +6,7 @@ Finally! A Discord bot that can determine someone's generation. The bot tracks u
 ## Set Up
 1. **Clone the repository**
 ```bash
-git clone https://github.com/cullendales/generation-bot.git
+git clone https://github.com/cullendales/generation-bot
 cd GenerationBot
 ```
 2. ```dotnet restore```
