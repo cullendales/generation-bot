@@ -1,9 +1,9 @@
-# discord-bot
+# Generation
 
-#### About
+## About
 Finally! A Discord bot that can determine someone's generation. The bot tracks user messages and counts all instances of slang usage throughout all messages. No more guessing if someone is an unc, find out with just a simple command. Comes with a built in cooked counter!
 
-#### Set Up
+## Set Up
 1. **Clone the repository**
 ```bash
 git clone https://github.com/cullendales/generation-bot.git
@@ -13,7 +13,7 @@ cd GenerationBot
 3. Add your bot token to config.json file (get bot token via Discord site)
 4. ```dotnet run --project GenerationBot.csproj```
 
-#### Usage
+## Usage
 !generation
 
 <img width="316" height="171" alt="Screenshot 2025-11-03 at 6 51 47 PM (2)" src="https://github.com/user-attachments/assets/9ad638ba-e717-4a55-a262-ec5b304ec6c7" />
